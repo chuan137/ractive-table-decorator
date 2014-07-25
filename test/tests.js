@@ -1,5 +1,5 @@
-// ractive-decorators-ractive-table-decorator tests
-// ==========================================
+// ractive-decorators-table tests
+// ========================
 
 (function () {
 

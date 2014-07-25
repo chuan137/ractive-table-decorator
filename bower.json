@@ -1,8 +1,8 @@
 {
-	"name": "ractive-decorators-ractive-table-decorator",
+	"name": "ractive-decorators-table",
 	"version": "0.1.0",
 	"author": "Chuan Miao",
-	"main": "ractive-decorators-ractive-table-decorator.js",
+	"main": "ractive-decorators-table.js",
 	"dependencies": {
 		"ractive": "^0.5.4"
 	},

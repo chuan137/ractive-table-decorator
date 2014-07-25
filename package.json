@@ -1,11 +1,11 @@
 {
-	"name": "ractive-decorators-ractive-table-decorator",
+	"name": "ractive-decorators-table",
 	"version": "0.1.0",
 	"author": {
 		"name": "Chuan Miao"
 	},
-	"main": "ractive-decorators-ractive-table-decorator.js",
-	"description": "ractive-decorators-ractive-table-decorator plugin for Ractive.js",
+	"main": "ractive-decorators-table.js",
+	"description": "ractive-decorators-table plugin for Ractive.js",
 	"dependencies": {
 		"ractive": "^0.5.4"
 	},

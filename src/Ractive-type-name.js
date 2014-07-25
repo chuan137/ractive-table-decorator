@@ -1,7 +1,7 @@
 /*
 
-	ractive-decorators-ractive-table-decorator
-	==========================================
+	ractive-decorators-table
+	========================
 
 	Version <%= pkg.version %>.
 
@@ -18,13 +18,13 @@
 	Usage: Include this file on your page below Ractive, e.g:
 
 	    <script src='lib/ractive.js'></script>
-	    <script src='lib/ractive-decorators-ractive-table-decorator.js'></script>
+	    <script src='lib/ractive-decorators-table.js'></script>
 
 	Or, if you're using a module loader, require this module:
 
 	    // requiring the plugin will 'activate' it - no need to use
 	    // the return value
-	    require( 'ractive-decorators-ractive-table-decorator' );
+	    require( 'ractive-decorators-table' );
 
 	<< more specific instructions for this plugin go here... >>
 
@@ -50,7 +50,7 @@
 	}
 
 	else {
-		throw new Error( 'Could not find Ractive! It must be loaded before the ractive-decorators-ractive-table-decorator plugin' );
+		throw new Error( 'Could not find Ractive! It must be loaded before the ractive-decorators-table plugin' );
 	}
 
 }( typeof window !== 'undefined' ? window : this, function ( Ractive ) {
