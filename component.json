@@ -1,0 +1,16 @@
+{
+	"name": "ractive-decorators-ractive-table-decorator",
+	"repo": "git://github.com/chuan137/ractive-table-decorator.git",
+	"description": "ractive-decorators-ractive-table-decorator",
+	"version": "0.1.0",
+	"keywords": [],
+	"dependencies": {
+		"ractivejs/ractive": "^0.5.4"
+	},
+	"development": {},
+	"license": "MIT",
+	"main": "ractive-decorators-ractive-table-decorator.js",
+	"scripts": [
+		"ractive-decorators-ractive-table-decorator.js"
+	]
+}
